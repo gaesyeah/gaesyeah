@@ -7,6 +7,9 @@
 <div align="center">
   
   ![BadgeViews](https://komarev.com/ghpvc/?username=gaesyeah&style=for-the-badge)
+  <a href="mailto:gabrielgoesriosdev@gmail.com">
+    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <a/>
   <a href="https://www.linkedin.com/in/ggsrdev/">
     ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   <a/>
@@ -33,6 +36,7 @@ Olá! Sou Gabriel Goes, Desenvolvedor Full Stack. Desde novo sempre gostei de ir
   
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
