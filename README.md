@@ -6,10 +6,9 @@
 
 <div align="center">
   
-  ![BadgeViews](https://komarev.com/ghpvc/?username=gaesyeah&style=for-the-badge 	)
-  
+  ![BadgeViews](https://komarev.com/ghpvc/?username=gaesyeah&style=for-the-badge)
   <a href="https://www.linkedin.com/in/ggsrdev/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   <a/>
 </div>
   
@@ -56,9 +55,9 @@ Olá! Sou Gabriel Goes, Desenvolvedor Full Stack. Desde novo sempre gostei de ir
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaesyeah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaesyeah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="center">   
+  <img src="https://github-readme-stats.vercel.app/api?username=gaesyeah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaesyeah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  /> 
 </div>
 
 ###
