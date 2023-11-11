@@ -1,16 +1,51 @@
-### Hi there 👋
+###
 
-<!--
-**gaesyeah/gaesyeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Opaaa! Tranquilo? 👋</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ![BadgeViews](https://komarev.com/ghpvc/?username=gaesyeah&style=for-the-badge 	)
+  
+  <a href="https://www.linkedin.com/in/ggsrdev/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a/>
+</div>
+  
+
+<h3 align="left">👨‍💻  Sobre mim</h3>
+Olá! Sou Gabriel Goes, Desenvolvedor Full Stack. Desde novo sempre gostei de ir atrás e resolver problemas. Isso me fez criar interesse cedo por computadores e internet, com o tempo fui desenvolvendo capacidade lógica e gosto por matemática, o que me fez cursar Engenharia e Ciências da Computação, foi ali onde tive meu primeiro contato com lógica aplicada à computação e programação de verdade, e foi onde me apaixonei pela área. Mas foi em 2023 que decidi ir atrás de conhecimento prático de verdade, participei de um bootcamp web que simula o mercado de trabalho na prática, com projetos semanais e com carga uma carga de +1200 horas em 9 meses de formação, a Driven Education.
+
+###
+
+<h3>🛠 Ferramentas e Tecnologias</h3>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<h4 align="left">Front-End</h4>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<h4 align="left">Back-end</h4>
+
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaesyeah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaesyeah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
