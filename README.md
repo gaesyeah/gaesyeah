@@ -7,12 +7,8 @@
 <div align="center">
   
   ![BadgeViews](https://komarev.com/ghpvc/?username=gaesyeah&style=for-the-badge)
-  <a href="mailto:gabrielgoesriosdev@gmail.com">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  <a/>
-  <a href="https://www.linkedin.com/in/ggsrdev/">
-    ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  <a/>
+  <a href="mailto:gabrielgoesriosdev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
+  <a href="https://www.linkedin.com/in/ggsrdev/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
 </div>
   
 <div align="center" >
