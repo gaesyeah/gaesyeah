@@ -13,7 +13,7 @@
   
 <div align="center" >
   <h3 text-align="center">👨‍💻  Sobre mim</h3>
-Olá! Sou Gabriel Goes, Desenvolvedor Full Stack. Desde novo sempre gostei de ir atrás e resolver problemas. Isso me fez criar interesse cedo por computadores e internet, com o tempo fui desenvolvendo capacidade lógica e gosto por matemática, o que   me fez cursar Engenharia e Ciências da Computação, foi ali onde tive meu primeiro contato com lógica aplicada à computação e programação de verdade, e foi onde me apaixonei pela área. Mas foi em 2023 que decidi ir atrás de conhecimento prático de verdade, participei de um bootcamp web que simula o mercado de trabalho na prática, com projetos semanais e com carga uma carga de +1200 horas em 9 meses de formação, a Driven Education.
+Olá! Sou Gabriel Goes, Desenvolvedor Full Stack. Desde novo sempre gostei de ir atrás e resolver problemas. Isso me fez criar interesse cedo por computadores e internet, com o tempo fui desenvolvendo capacidade lógica e gosto por matemática, o que   me fez cursar Engenharia e Ciências da Computação, foi ali onde tive meu primeiro contato com lógica aplicada à computação e programação de verdade, e foi onde me apaixonei pela área. Mas foi em 2023 que decidi ir atrás de conhecimento prático de verdade, participei de um bootcamp web que simula o mercado de trabalho na prática, com projetos semanais e com uma carga de +1200 horas em 9 meses de formação, a Driven Education.
 </div>
 
 ###
